@@ -1,2 +1,5 @@
 # hello-world
-just a test
+
+Hi everyone,
+
+This is to test Github. Seems pretty interesting so far.
